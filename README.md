@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me
+- 📫 My email: shahtavkeer@gmail.com
 
 <!---
 tavkeer/tavkeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
